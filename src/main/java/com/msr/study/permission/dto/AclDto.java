@@ -1,0 +1,34 @@
+package com.msr.study.permission.dto;
+
+import com.msr.study.permission.model.SysAcl;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+import org.springframework.beans.BeanUtils;
+
+/**
+ * @description:
+ * @author: MaiShuRen
+ * @date: 2020/2/3 22:15
+ * @version: v1.0
+ */
+@Setter
+@Getter
+@ToString
+public class AclDto extends SysAcl {
+    /**
+     * 是否要默认选中
+     */
+    private boolean checked = false;
+
+    /**
+     * 是否有权限操作
+     */
+    private boolean hasAcl = false;
+
+    public static AclDto adapt(SysAcl acl) {
+        AclDto dto = new AclDto();
+        BeanUtils.copyProperties(acl, dto);
+        return dto;
+    }
+}
