@@ -14,7 +14,7 @@
 
 部门属性结构展示
 
-![1](./image/manage-use.png)
+![1](image/manage-use.png)
 
 ### 2.用户模块
 
@@ -24,7 +24,7 @@
 
 根据部门分页获取用户列表并展示
 
-![1](./image/2.png)
+![1](image/2.png)
 
 
 
@@ -38,7 +38,7 @@
 
 获取角色列表并展示
 
-![1](./image/manage-role.png)
+![1](image/manage-role.png)
 
 ### 4.权限模块
 
@@ -50,7 +50,7 @@
 
 权限模块树形结构展示
 
-![1](./image/manage-permission.png)
+![1](image/manage-permission.png)
 
 ### 5.用户关系维护
 
@@ -60,7 +60,7 @@
 
 更新角色-用户关系
 
-![image-20200204134124416](./image/5.png)
+![image-20200204134124416](image/5.png)
 
 ### 6.权限点模块
 
@@ -70,7 +70,7 @@
 
 根据权限模块分页获取权限点列表并展示
 
-![image-20200204134346124](./image/6.png)
+![image-20200204134346124](image/6.png)
 
 ### 7.权限关系维护
 
@@ -78,7 +78,7 @@
 
 更新角色-权限关系
 
-![1](./image/manage-role.png)
+![1](image/manage-role.png)
 
 ### 8.日志模块
 
@@ -86,7 +86,7 @@
 
 根据权限日志撤销之前的操作
 
-![1](./image/manage-log.png)
+![1](image/manage-log.png)
 
 ### 9.Redis缓存模块
 
