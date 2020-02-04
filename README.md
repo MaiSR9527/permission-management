@@ -14,7 +14,7 @@
 
 部门属性结构展示
 
-![1](./image/manage-use.png)
+![1](image/manage-use.png)
 
 ### 2.用户模块
 
