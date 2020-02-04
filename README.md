@@ -98,5 +98,5 @@ Redis缓存系统权限
 
 ## 运用的技术
 
-Spring+SpringMVC+MyBatis+JQuaery+Boostrap+Mustache+zTree+Duallistbox+Redis
+Spring+SpringMVC+MyBatis+JQuery+Boostrap+Mustache+zTree+Duallistbox+Redis+jsp
 
