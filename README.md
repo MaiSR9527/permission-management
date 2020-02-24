@@ -12,7 +12,7 @@
 
 删除部门
 
-部门属性结构展示
+部门树型结构展示
 
 ![1](https://github.com/MaiSR9527/permission-management/blob/master/image/manage-use.png)
 
